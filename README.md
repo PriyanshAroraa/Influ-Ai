@@ -1,6 +1,5 @@
 # InfluAI - AI-Powered Influencer Discovery & Negotiation Platform
 
-![InfluAI Logo](public/cosmic-beam.png)
 
 ## 📋 Table of Contents
 
